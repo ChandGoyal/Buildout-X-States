@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+/* App Styling */
+.citySelector {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.dropdowns {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.dropdown {
+  padding: 12px;
+  font-size: 16px;
+}
+
+.result {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.highlight {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.fade {
+  color: #888;
+}
